@@ -1,5 +1,2 @@
-while true
-do
 echo "hello"
-sleep 3
-done
+echo "now"
